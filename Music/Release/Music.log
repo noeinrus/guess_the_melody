@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1065): warning C4101: 'bt5': unreferenced local variable
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1066): warning C4101: 'bt15': unreferenced local variable
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1065): warning C4101: 'bt6': unreferenced local variable
+  MyForm1.cpp
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1065): warning C4101: 'bt5': unreferenced local variable
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1066): warning C4101: 'bt15': unreferenced local variable
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1065): warning C4101: 'bt6': unreferenced local variable
+  MyForm2.cpp
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1065): warning C4101: 'bt5': unreferenced local variable
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1066): warning C4101: 'bt15': unreferenced local variable
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(1065): warning C4101: 'bt6': unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: entry point must be defined
