@@ -1359,6 +1359,7 @@ private: System::Void open_button_Click(System::Object^  sender, System::EventAr
 	}
 }
 
+
 private: System::Void MelodyList_SelectedIndexChanged(System::Object^  sender, System::EventArgs^  e) {
 	while (fs != NULL) {
 		del();
