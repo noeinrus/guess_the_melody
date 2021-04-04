@@ -61,9 +61,13 @@ c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(805): w
 c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(976): warning C4101: 'bt5': unreferenced local variable
 c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(977): warning C4101: 'bt15': unreferenced local variable
 c:\users\mssi\documents\visual studio 2015\projects\music\music\MyForm.h(976): warning C4101: 'bt6': unreferenced local variable
+  MyMus.cpp
+c:\users\mssi\documents\visual studio 2015\projects\music\music\MyMus.h(139): warning C4101: 'snd': unreferenced local variable
   Generating Code...
 c:\users\mssi\documents\visual studio 2015\projects\music\music\mymus.h(141): warning C4700: uninitialized local variable 'dur' used
 c:\users\mssi\documents\visual studio 2015\projects\music\music\mymus.h(141): warning C4700: uninitialized local variable 'dur' used
 c:\users\mssi\documents\visual studio 2015\projects\music\music\mymus.h(141): warning C4700: uninitialized local variable 'dur' used
+c:\users\mssi\documents\visual studio 2015\projects\music\music\mymus.h(141): warning C4700: uninitialized local variable 'dur' used
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
   Music.vcxproj -> C:\Users\mssi\Documents\Visual Studio 2015\Projects\Music\Debug\Music.exe
   Music.vcxproj -> C:\Users\mssi\Documents\Visual Studio 2015\Projects\Music\Debug\Music.pdb (Full PDB)

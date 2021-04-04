@@ -37,7 +37,7 @@ delegate void waveOutProcDelegate(HWAVEOUT  hwo, UINT uMsg,
 	DWORD_PTR dwInstance, DWORD_PTR dwParam1, DWORD_PTR dwParam2);
 
 
-ref class MyMus      
+ref class MyMus       
 {
 	char* buffer;
 	const int paus = 4800;
